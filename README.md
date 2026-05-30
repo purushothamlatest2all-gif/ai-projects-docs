@@ -273,5 +273,83 @@ Please respect the original Archive.org and publisher licensing terms.
 `#AIDatabase` `#PromptEngineering` `#SQLAI` `#AutonomousDatabases` `#MakeMoneyWithAI` `#FreeAIBook` `#LearnAI2026` `#AIForBeginners` `#DataEngineering` `#ChatGPTPrompts`
 
 ---
+# AI‑Powered Database Management – Blog Index
+
+A collection of 53 articles from the blog  
+[`a-purushotham-reddy-latest2all.blogspot.com`](https://a-purushotham-reddy-latest2all.blogspot.com)  
+covering the intersection of **Artificial Intelligence** and **Database Management**.
+
+---
+
+## 🔹 AI Database Automation & Self‑Management
+- [AI‑Powered Database Automation](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/ai-powered-database-automation.html)  
+- [Autonomous Tuning](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-autonomous-tuning.html)  
+- [Deadlock Prevention](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-deadlock-prevention.html)  
+- [Automated Maintenance](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-automated-maintenance.html)  
+- [Backup & Recovery – Why AI](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-backup-recovery-why.html)  
+- [Auto‑Sharding – Stop Playing](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-sharding-stop-playing.html)  
+- [Auto‑Sharding (alt)](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-auto-sharding-stop.html)  
+- [Schema Evolution – Death of Manual Migrations](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-schema-evolution-death.html)  
+- [Adaptive Encryption](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-adaptive-encryption.html)  
+- [Data Masking](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-data-masking-why-your.html)  
+- [AI Stored Procedures](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-ai-stored-procedures.html)  
+- [Relationship Discovery](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-relationship-discovery.html)
+
+## 🔹 Intelligent Query & Performance
+- [Intelligent SQL Query Processing](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/intelligent-sql-query-processing.html)  
+- [AI Query Prediction – Intelligent Prefetching](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/AI-Query-Prediction--Intelligent-Prefetching.html)  
+- [Join Optimisation – How AI Fixes Your Worst Joins](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-join-optimisation-how.html)  
+- [Approximate Query Processing](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-approximate-query.html)  
+- [Stop Guessing Your Buffer Pool Size](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/stop-guessing-your-buffer-pool-size-ai.html)  
+- [SELECT * FROM Customers Is Killing Your Database](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/select-from-customers-is-killing-your.html)
+
+## 🔹 Data Lifecycle, Monitoring & Recovery
+- [Data Lakehouse – Swamp Draining](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/AI-Data-Lakehouse--Swamp-Draining.html)  
+- [AI Checkpoint Scheduling – Recovery Optimisation](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/AI-Checkpoint-Scheduling--Recovery-Optimisation.html)  
+- [AI Error Memory – Continuous Improvement](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/AI-Error-Memory--Continuous-Improvement.html)  
+- [Postmortem – AI That Learns from Crashes](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-postmortem-ai-that.html)  
+- [Log Mining – How AI Reads the Redo](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-log-mining-how-ai.html)  
+- [Data Corruption Detection](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-data-corruption.html)  
+- [Temporal Queries – AI for Time‑Travel Data](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-temporal-queries-ai.html)  
+- [Time‑Series – Why Your Database Needs a Watch](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-time-series-why-your.html)  
+- [Data Lifecycle Management](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-data-lifecycle.html)  
+- [Changelog – AI That Documents Itself](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-changelog-ai-that.html)
+
+## 🔹 Conversational & Knowledge‑Driven Databases
+- [Conversational Databases](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-conversational.html)  
+- [AI Knowledge Graph Engine – Live Search](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/live-ai-knowledge-graph-engine-search.html)  
+- [The Database That Feels Your Workload – AI Sentiment for Performance](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/The%20Database%20That%20Feels%20Your%20Workload%20%20AI%20Sentiment%20for%20Performance.html)
+
+## 🔹 Operational Excellence & Architecture
+- [Service Discovery – Stop Hardcoding Endpoints](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-service-discovery-stop.html)  
+- [Active Replicas – Why Your Standby Should Do More](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-active-replicas-why.html)  
+- [Developer to DBA – How AI Bridges the Gap](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-developer-to-dba-how.html)  
+- [AI Memory Layer – Why Your Database Needs a Hippocampus](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-ai-memory-layer-why.html)  
+- [AI Negotiation – AI That Argues for Resources](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-ai-negotiation-ai-that.html)  
+- [Workload Forecasting](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-workload-forecasting.html)  
+- [Adaptive Work Memory](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-adaptive-work-memory.html)  
+- [AI Self‑Critique in Databases](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/AI-SelfCritique-in-Databases.html)  
+- [AI–Human Collaboration and DBA Upskilling](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/AIHuman-Collaboration-and-DBA-Upskilling.html)
+
+## 🔹 Cost Optimisation & Resource Management
+- [The $100K Mistake – Why Your Cloud Bill Is Out of Control](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/the-100k-mistake-why-your-cloud.html)  
+- [You Don’t Need a Data Warehouse, You Need…](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/you-dont-need-data-warehouse-you-need.html)  
+- [Caching – Why Your Database Forgets](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-caching-why-your.html)
+
+## 🔹 Tools & Practical Guides
+- [Best AI Tools for DB Management](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-ai-database-tools-best-ai-tools.html)  
+- [AI‑Powered Database Management Tools (overview)](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/ai-powered-database-management-tools.html)  
+- [Database Management Using AI – Practice](https://a-purushotham-reddy-latest2all.blogspot.com/2024/11/database-management-using-ai-practice.html)
+
+## 🔹 Foundational & Index Pages
+- [Home (2024)](https://a-purushotham-reddy-latest2all.blogspot.com/2024/11/home.html)  
+- [Database Management Using AI (intro)](https://a-purushotham-reddy-latest2all.blogspot.com/2024/10/database-management-using-ai.html)  
+- [Database Management Using AI – The Future](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/database-management-using-ai-future-of.html)  
+- [AI Database Index (home‑ai‑database‑index)](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/html-home-ai-database-index.html)  
+- [Home‑Database‑Management‑Using‑AI (series entry)](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-database-management-using-ai.html)  
+- [Home‑Database‑Management‑Using‑AI‑AI (variant)](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-database-management-using-ai-ai.html)  
+- [Home‑Database‑Management‑Using‑AI‑AI‑N1](https://a-purushotham-reddy-latest2all.blogspot.com/2026/05/home-database-management-using-ai-ai-n1.html)
+
+---
 
 *Last updated: May 2026*
